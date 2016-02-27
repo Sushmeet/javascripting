@@ -1,0 +1,18 @@
+{
+  "name": "Lessons in Java Scripting",
+  "version": "1.0.0",
+  "description": "javascripting tutorial from workshopeprs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git"
+  },
+  "author": "sushmeet",
+  "license": "ISC",
+  "dependencies": {
+    "javascripting": "^2.4.1"
+  }
+}
